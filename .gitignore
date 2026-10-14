@@ -1,0 +1,4 @@
+__pycache__/
+audit_log.jsonl
+my_report.xlsx
+*.pyc
